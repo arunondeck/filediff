@@ -11,9 +11,12 @@ After the files are read, iterates through each set of keys to lookup whether th
 
 ## Usage
 
+Clone the repository.
+
+Then  npm install.
+
 node index.js file1.txt file2.txt
 
-imagine two files with one word on each line.
 
 ## Sample Input
 
