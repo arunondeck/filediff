@@ -1,0 +1,20 @@
+{
+  "name": "filediff",
+  "version": "1.0.0",
+  "description": "run a diff between two files",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "file",
+    "diff",
+    "diff-file",
+    "file-diff"
+  ],
+  "author": "arun",
+  "license": "ISC",
+  "dependencies": {
+    "n-readlines": "^1.0.0"
+  }
+}
